@@ -1,0 +1,4 @@
+GET $ POST
+variabel scope
+//  VARIABLE SUPERGLOBALS, $_GET, $_POST, $_REQUEST, $_SESSION, $_COOKIE, $_SERVER, $_ENV
+// VARIABLE SUPERGLOBALS semua tipe Array Assosiative

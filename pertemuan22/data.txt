@@ -1,0 +1,8 @@
+http://sampitak.rf.gd/
+
+username 	: epiz_32939283
+pass		: HZ8mj3CLXCXVE4R
+
+db name	: epiz_32939283_phpdasar
+mysql username : epiz_32939283
+host: sql202.epizy.com
